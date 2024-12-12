@@ -28,36 +28,6 @@ This repository contains a Flask-based web application that predicts stock price
 
 ---
 
-## Installation
-
-1. **Clone the Repository**:
-   ```bash
-   git clone https://github.com/yourusername/stock-price-predictor.git
-   ```
-
-2. **Navigate to the Project Directory**:
-   ```bash
-   cd stock-price-predictor
-   ```
-
-3. **Install Dependencies**:
-   Make sure you have Python installed and run:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-4. **Prepare the Dataset**:
-   Ensure the `stock.csv` file (containing historical stock data) is placed in the project directory.
-
-5. **Run the Application**:
-   ```bash
-   python stock_prediction.py
-   ```
-
-6. **Access the App**:
-   Open your web browser and navigate to `http://127.0.0.1:5000`.
-
----
 
 ## Project Structure
 
